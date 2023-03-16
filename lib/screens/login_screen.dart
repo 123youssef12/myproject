@@ -163,7 +163,7 @@ class Login extends StatelessWidget {
                                     border: Border.all(
                                         color: Colors.black, width: 1)),
                                 child: SvgPicture.asset(
-                                  "assets/images/icons8-google.svg",
+                                  "assets/images/googel.svg",
                                   color: Colors.black,
                                   height: 27,
                                 ),
@@ -181,7 +181,7 @@ class Login extends StatelessWidget {
                                     border: Border.all(
                                         color: Colors.black, width: 1)),
                                 child: SvgPicture.asset(
-                                  "assets/images/icons8-facebook-f.svg",
+                                  "assets/images/facebook.svg",
                                   color: Colors.yellow,
                                   height: 40,
                                 ),
@@ -199,7 +199,7 @@ class Login extends StatelessWidget {
                                         color: Colors.black, width: 1)),
                                 
                                 child: SvgPicture.asset(
-                                  "assets/images/icons8-twitter.svg",
+                                  "assets/images/twitter.svg",
                                   color: Colors.black,
                                   height: 27,
                                 ),
